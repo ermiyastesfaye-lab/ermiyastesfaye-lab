@@ -1,6 +1,7 @@
 # Hi 👋, I'm Ermiyas Tesfaye!
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-🏫 Software engineering student at Addis Ababa University<br>🔭 Currently working on Web and Mobile app development<br>🌱 Currently learning Machine learning<br>💬 Ask me about react, express.js and nestjs<br>📫 Reach me ermiyastesfaye16@gmail.com<br>👨‍💻 All of my projects are available at https://ermi-portfolio.vercel.app/
+🏫 Software engineering student at Addis Ababa University<br>🔭 Currently working on Web and Mobile app development<br>🌱 Currently learning Machine learning<br>💬 Ask me about react, express.js and nestjs<br>📫 Reach me **ermiyastesfaye16@gmail.com**
+<br>👨‍💻 All of my projects are available at https://ermi-portfolio.vercel.app/
 
 
 ## 🌐 Socials:
